@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate developer and aspiring software engineer 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a quiz app
+- 🔭 I’m currently working on a student application app
 - 🌱 I’m learning React, SQL, and Javascript 
 - 👯 I’m looking to collaborate on any projects involving machine learning, or web development
 - 🤔 I’m open to help with frontend development projects, and data science projects
@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a passionate developer and aspiring software engineer 
 
 ## 🧑‍💻 Technologies & Tools I Use
 
-- **Languages:** HTML, CSS, JavaScript, Python
+- **Languages:** HTML, CSS, JavaScript, Python, SQL, Java
 - **Frameworks:** React, Node.js
 - **Tools:**  GitHub, VSCode
 
