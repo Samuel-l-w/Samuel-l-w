@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate developer and aspiring software engineer 
 
 - **Languages:** HTML, CSS, JavaScript, Python, SQL, Java
 - **Frameworks:** React, Node.js
-- **Tools:**  GitHub, VSCode
+- **Tools:**  GitHub, VSCode, IntelliJ
 
 ## 🌱 Current Learning
 
